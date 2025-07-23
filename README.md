@@ -61,7 +61,7 @@ The following business questions were answered using **MS SQL** (`uber.sql`):
 Include screenshots of your Power BI dashboard or any relevant visual below. Upload the image(s) to your GitHub repository, then embed them here using the Markdown format:
 
 ```markdown
-![Dashboard Overview](images/dashboard-overview.png)
-![Revenue by Vehicle Type](images/revenue-vehicle.png)
-![Cancellation Analysis](images/cancellations.png)
+![Dashboard Overview](https://github.com/rajendra1290/uber-insights-dashboard/blob/main/Snapshot_3.png)
+![Revenue by Vehicle Type](https://github.com/rajendra1290/uber-insights-dashboard/blob/main/Snapshot_2.png)
+![Cancellation Analysis](https://github.com/rajendra1290/uber-insights-dashboard/blob/main/Snapshot_3.png)
 
