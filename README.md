@@ -1,2 +1,67 @@
-# uber-insights-dashboard
-This project involves end-to-end analysis of Uber ride booking data using SQL and Power BI. It explores patterns in revenue, ride cancellations, and customer ratings.  The analysis is visualized through a Power BI report (uber.pbix) with a custom-designed slide deck (slides.pptx) that serves as a visual canvas background for presentation.
+# 🚗 Uber-Insights-Dashboard
+
+This project explores Uber ride booking data to uncover insights about operational efficiency, revenue trends, ride cancellations, and customer behavior. It integrates **Microsoft SQL Server (MS SQL)** for querying and transformation, and **Power BI** for data visualization. A custom PowerPoint layout is used as a canvas background in Power BI to enhance visual presentation.
+
+---
+
+## 🎯 Project Objectives
+
+- Answer business and operational questions using SQL queries.  
+- Visualize trends related to revenue, cancellations, and customer behavior.  
+- Enhance reporting through a professional, slide-based canvas background.
+
+---
+
+## 🧠 SQL Questions Solved
+
+The following business questions were answered using **MS SQL** (`uber.sql`):
+
+1. Retrieve all successful bookings  
+2. Find the average ride distance for each vehicle type  
+3. Get the total number of cancelled rides by customers  
+4. List the top 5 customers who booked the highest number of rides  
+5. Get the number of rides cancelled by drivers due to personal and car-related issues  
+6. Find the maximum and minimum driver ratings for Prime Sedan bookings  
+7. Retrieve all rides where payment was made using UPI  
+8. Find the average customer rating per vehicle type  
+9. Calculate the total booking value of rides completed successfully  
+10. List all incomplete rides along with the reason  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Microsoft SQL Server (MS SQL)** – For querying and analytics  
+- **Power BI** – For interactive dashboards and report building  
+- **PowerPoint** – Used as a background canvas to improve dashboard aesthetics  
+- **CSV** – Data format for import  
+
+---
+
+## 📊 Key Insights
+
+- Revenue varies significantly across vehicle types.  
+- Cancellations reveal operational inefficiencies.  
+- Customer and driver ratings differ by vehicle category.  
+- UPI is a frequently used payment method.  
+- Top users and ride values highlight high-value customers.
+
+---
+
+## 📌 How to Use
+
+1. Open `uber.sql` in **SQL Server Management Studio** and run queries to answer the above questions.  
+2. Launch `uber.pbix` in **Power BI Desktop** to view the interactive report.  
+3. `slides.pptx` serves as the background layout inside Power BI for better presentation design.  
+
+---
+
+## 📸 Screenshots
+
+Include screenshots of your Power BI dashboard or any relevant visual below. Upload the image(s) to your GitHub repository, then embed them here using the Markdown format:
+
+```markdown
+![Dashboard Overview](images/dashboard-overview.png)
+![Revenue by Vehicle Type](images/revenue-vehicle.png)
+![Cancellation Analysis](images/cancellations.png)
+
