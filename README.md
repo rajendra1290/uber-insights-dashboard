@@ -1,10 +1,10 @@
-# 🚗 Uber-Insights-Dashboard
+# Uber-Insights-Dashboard
 
 This project explores Uber ride booking data to uncover insights about operational efficiency, revenue trends, ride cancellations, and customer behavior. It integrates **Microsoft SQL Server (MS SQL)** for querying and transformation, and **Power BI** for data visualization. A custom PowerPoint layout is used as a canvas background in Power BI to enhance visual presentation.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Answer business and operational questions using SQL queries.  
 - Visualize trends related to revenue, cancellations, and customer behavior.  
@@ -12,7 +12,7 @@ This project explores Uber ride booking data to uncover insights about operation
 
 ---
 
-## 🧠 SQL Questions Solved
+##  SQL Questions Solved
 
 The following business questions were answered using **MS SQL** (`uber.sql`):
 
@@ -29,7 +29,7 @@ The following business questions were answered using **MS SQL** (`uber.sql`):
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft SQL Server (MS SQL)** – For querying and analytics  
 - **Power BI** – For interactive dashboards and report building  
@@ -38,7 +38,7 @@ The following business questions were answered using **MS SQL** (`uber.sql`):
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Revenue varies significantly across vehicle types.  
 - Cancellations reveal operational inefficiencies.  
@@ -48,7 +48,7 @@ The following business questions were answered using **MS SQL** (`uber.sql`):
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 1. Open `uber.sql` in **SQL Server Management Studio** and run queries to answer the above questions.  
 2. Launch `uber.pbix` in **Power BI Desktop** to view the interactive report.  
@@ -56,7 +56,7 @@ The following business questions were answered using **MS SQL** (`uber.sql`):
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 
 ```markdown
