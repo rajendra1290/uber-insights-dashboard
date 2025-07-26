@@ -58,7 +58,6 @@ The following business questions were answered using **MS SQL** (`uber.sql`):
 
 ## 📸 Screenshots
 
-Include screenshots of your Power BI dashboard or any relevant visual below. Upload the image(s) to your GitHub repository, then embed them here using the Markdown format:
 
 ```markdown
 ![Dashboard Overview](https://github.com/rajendra1290/uber-insights-dashboard/blob/main/Snapshot_3.png)
